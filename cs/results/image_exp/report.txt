@@ -1,0 +1,9 @@
+=== Decrypt ONLY ===
+cipher_in: results/image_exp/cipher_rgba.png
+state_in: results/image_exp/state.npz
+Decrypt time: 9.927163s
+
+=== Reconstruction quality (plain vs decrypted) ===
+MAE:  3.4082679748535156
+PSNR: 33.06169827128801
+SSIM: 0.91758669244347
